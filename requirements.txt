@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 contourpy==1.3.1
 cycler==0.12.1
 fonttools==4.55.2
@@ -14,7 +13,6 @@ python-dateutil==2.9.0.post0
 pytz==2024.2
 scipy==1.14.1
 seaborn==0.13.2
-=======
 asttokens==3.0.0
 colorama==0.4.6
 comm==0.2.2
@@ -48,7 +46,6 @@ python-dateutil==2.9.0.post0
 pytz==2024.2
 pywin32==308
 pyzmq==26.2.0
->>>>>>> ad5bef84c250f8d17d891c9c4b353b023226c5e8
 six==1.17.0
 stack-data==0.6.3
 tornado==6.4.2
