@@ -14,19 +14,20 @@
 <h7></h7>
 <h7></h7>
 <h7></h7>
+<h9>_______________________________________________________</h9>
 
 <h8 align="center"><summary style="font-size: 24px;">Наши тестовые варианты  <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/Test" target="_blank">Test</a></summary> </h8>
 
-<h9>_______________________________________________________</h9>
+
 
 <details style="text-align: left;">
 
   <summary style="font-size: 18px;">Подъячев Владислав  <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/Test/VP" target="_blank">VP</a></summary>
 
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px; text-align: left;">
-    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/baseline2_RandomForestClassification.ipynb" target="_blank">baseline2_RandomForestClassification.ipynb</a> — baseline</li>
-    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/train.ipynb" target="_blank">train.ipynb</a> — обработка изначальных данных train</li>
-    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/valid.ipynb">valid.ipynb</a> — обработка изначальных данных valid</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/Baseline_with_filter_info.ipynb" target="_blank">Baseline_with_filter_info.ipynb</a> — baseline</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/Baseline_with_filter_info.html" target="_blank">Baseline_with_filter_info.html</a> — baseline экспортированный в html</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/valid.ipynb">valid_filtred.csv</a> — обработка изначальных данных valid</li>
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/valid_edit.csv" target="_blank">valid_edit.csv</a> — обработанные данные valid</li>
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VP/train_edit.csv">train_edit.csv</a> — обработанные данные train</li>
 </ul>
@@ -34,7 +35,7 @@
 
 
 <details style="text-align: left;">
-  <summary style="font-size: 18px;">Долич Владислав <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/Test/VD" target="_blank">VD</a></summary>
+  <summary style="font-size: 19px;">Долич Владислав <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/Test/VD" target="_blank">VD</a></summary>
   
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px; text-align: left;">
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/VD/Untitled-1.ipynb" target="_blank">untilted-1.ipynb</a> — обработка test.csv и valid.csv</li>
@@ -49,7 +50,7 @@
 </details>
 
 <details style="text-align: left;">
-  <summary style="font-size: 18px;">Серый Александр <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/Test/AC" target="_blank">AC</a></summary>
+  <summary style="font-size: 19px;">Серый Александр <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/Test/AC" target="_blank">AC</a></summary>
   
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px; text-align: left;">
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/baseline.ipynb" target="_blank">baseline.ipynb</a> — baseline</li>
@@ -68,26 +69,33 @@
 
 
 <h12>_______________________________________________________</h12>
+
+<h8 align="center"><summary style="font-size: 24px;">Конечный результат <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/main" target="_blank">Main</a></summary> </h8>
+
 <details style="text-align: left;">
-  <summary style="font-size: 18px;">Main</a></summary></summary>
+  <summary style="font-size: 19px;">Main</a></summary></summary>
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px; text-align: left;">
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/50on50.ipynb" target="_blank">50on50.ipynb</a> — данные для проверки работы модели и для проверки результата при одинаковом количестве нулей и едениц в тестовых данных</li>
-    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/tMod.ipynb" target="_blank">main.ipynb</a> — конечная работа</li>
-    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/trein.csv" target="_blank">trein.csv</a> — обработанные изначальные данные train</li>
-    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/val.csv" target="_blank">val.csv</a> — обработанные изначальные данные valid</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/main.ipynb" target="_blank">main.ipynb</a> — конечная работа</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/train.csv" target="_blank">train.csv</a> — данные выданные нам для обучения</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/valid.csv" target="_blank">valid.csv</a> — данные выданные нам для тестирования</li>
     
 </ul>
+</details>
 
+
+
+<h12>_______________________________________________________</h12>
+
+
+<h8 align="center"><summary style="font-size: 24px;">Вывод:</summary> </h8>
+<details style="text-align: left;">
+  <summary style="font-size: 19px;">О работе</summary>
   
-
-
-
-
-
-  
+  <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px; text-align: left;">
+    <li>Работа была достаточно интересной и сложной. Мы узнали много нового, а также впервые построили несколько моделей. Думаю судить строго не стоит так как это наша первая работа с такими типами данных и моделями. Тем не менее, мы готовы к конструктивной критике так как без неё сложно выявить ошибки и исправить их, что в свою очередь помогает нам продвигаться дальше в обучении..</li>
 </ul>
 </details>
-<h11 align="center"><summary style="font-size: 24px;">Наша конечная работа <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/main" target="_blank">Main</a></summary> </h11>
 
 
  
