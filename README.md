@@ -66,17 +66,28 @@
 <h7> </h7>
 <h7> </h7>
 
-<h11 align="center"><summary style="font-size: 24px;">Наша конечная работа <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/main" target="_blank">Main</a></summary> </h11>
-
 
 <h12>_______________________________________________________</h12>
 <details style="text-align: left;">
-  <summary style="font-size: 18px;"><a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/main" target="_blank">Main</a></summary></summary>
+  <summary style="font-size: 18px;">Main</a></summary></summary>
+  <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px; text-align: left;">
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/50on50.ipynb" target="_blank">50on50.ipynb</a> — данные для проверки работы модели и для проверки результата при одинаковом количестве нулей и едениц в тестовых данных</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/tMod.ipynb" target="_blank">main.ipynb</a> — конечная работа</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/trein.csv" target="_blank">trein.csv</a> — обработанные изначальные данные train</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/val.csv" target="_blank">val.csv</a> — обработанные изначальные данные valid</li>
+    
+</ul>
+
+  
+
+
+
+
 
   
 </ul>
 </details>
-
+<h11 align="center"><summary style="font-size: 24px;">Наша конечная работа <a href="https://github.com/Sr123Saha/2_Intensiv_2/tree/main/main" target="_blank">Main</a></summary> </h11>
 
 
  
