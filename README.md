@@ -57,6 +57,7 @@
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/tMod.ipynb" target="_blank">tMod.ipynb</a> — тест различных моделей</li>
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/trein.csv" target="_blank">trein.csv</a> — обработанные изначальные данные train</li>
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/val.csv" target="_blank">val.csv</a> — обработанные изначальные данные valid</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/Test/AC/balans.ipynb" target="_blank">balans.ipynb</a> — проверка как поведет себя модель при балансировке</li>
     
 </ul>
 
