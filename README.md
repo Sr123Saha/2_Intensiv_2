@@ -78,8 +78,10 @@
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px; text-align: left;">
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/50on50.ipynb" target="_blank">50on50.ipynb</a> — данные для проверки работы модели и для проверки результата при одинаковом количестве нулей и едениц в тестовых данных</li>
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/main.ipynb" target="_blank">main.ipynb</a> — конечная работа</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/main.html" target="_blank">main.html</a> — конечная работа</li>
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/train.csv" target="_blank">train.csv</a> — данные выданные нам для обучения</li>
     <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/valid.csv" target="_blank">valid.csv</a> — данные выданные нам для тестирования</li>
+    <li><a href="https://github.com/Sr123Saha/2_Intensiv_2/blob/main/main/Отчёт" target="_blank">Отчет</a> — презентация нашей работы</li>
     
 </ul>
 </details>
